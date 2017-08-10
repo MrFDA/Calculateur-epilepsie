@@ -1,1 +1,4 @@
-calculateur_dev
+Just a small script I wrote for the site http://etunpeudeneurologie.blogspot.com/2017/08/evaluer-le-risque-de-recidive-en-cas.html
+It computes the risk of seizure recurrence after antiepileptic drug withdrawal and of seizure freedom (for at least 1 year) at 10 years of follow-up.
+This calculator is based on Herm J Lamberink, Willem M Otte, Ada T Geerts, Milen Pavlovic, Julio Ramos-Lizana, Anthony G Marson, Jan Overweg, Letícia Sauma, Luigi M Specchio, Michael Tennison, Tania M O Cardoso, Shlomo Shinnar, Dieter Schmidt, Karin Geleijns, Kees P J Braun, Individualised prediction model of seizure recurrence and long-term outcomes after withdrawal of antiepileptic drugs in seizure-free patients: a systematic review and individual participant data meta-analysis, The Lancet Neurology, Volume 16, Issue 7, 2017, Pages 523-531, ISSN 1474-4422, http://dx.doi.org/10.1016/S1474-4422(17)30114-X.
+(http://www.sciencedirect.com/science/article/pii/S147444221730114X).
